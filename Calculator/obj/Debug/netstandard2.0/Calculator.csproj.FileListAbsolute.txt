@@ -1,0 +1,9 @@
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\v-gladysj\source\repos\SalaryCalculatorTestProject\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
